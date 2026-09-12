@@ -34,15 +34,14 @@ mcp.1/
 - **Package Manager**: [`uv`](https://docs.astral.sh/uv/) (recommended) or `pip`
 
 ---
-
+ Downloard claude desktop in your computer
 ## 📦 Installation
 
 ### Option 1: Using `uv` (Recommended)
 
 1. Clone or navigate to the project directory:
    ```bash
-   cd "/Users/rehanmondal/Documents/MCP servers/mcp.1"
-   ```
+  
 
 2. Synchronize dependencies using `uv`:
    ```bash
@@ -119,9 +118,8 @@ Add the server under `mcpServers`:
 
 ### `get_weather`
 
-- **Description**: Provides current weather details and system context for a specified location.
-- **Parameters**:
-  - `location` (`string`, required): The location/city for the weather request (e.g. `"New York"`, `"London"`).
+- **Description**: Provides provide app folder data in any win dows machine
+- 
 - **Return Type**: `string`
 
 ---
