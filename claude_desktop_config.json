@@ -1,0 +1,61 @@
+{
+  "mcpServers": {
+    "main": {
+      "command": "/Users/rehanmondal/.local/bin/uv",
+      "args": [
+        "run",
+        "--frozen",
+        "--with",
+        "mcp[cli]==2.1.1",
+        "mcp",
+        "run",
+        "/Users/rehanmondal/Documents/MCP servers/mcp.1/main.py"
+      ]
+    }
+  },
+  "isCoworkSdkDebuggingEnabled": false,
+  "coworkUserFilesPath": "/Users/rehanmondal/Claude",
+  "preferences": {
+    "coworkBrowserToolsEnabled": false,
+    "launchPreviewPersistedWorkspaces": [],
+    "launchPreviewSessionScopedSessions": [],
+    "coworkScheduledTasksEnabled": false,
+    "coworkHipaaRestricted": false,
+    "ccdScheduledTasksEnabled": false,
+    "bypassPermissionsGateByAccount": {
+      "8619d430-24af-49c0-ae55-b05edd38fbe5": false
+    },
+    "coworkWebSearchEnabled": true,
+    "coworkModelAutoFallbackByAccount": {
+      "8619d430-24af-49c0-ae55-b05edd38fbe5": true
+    },
+    "remoteToolsDeviceName": "rehans-mac-mini-local",
+    "epitaxyPrefs": {
+      "starred-local-code-sessions": [],
+      "starred-cowork-spaces": [],
+      "starred-session-groups": [],
+      "dframe-local-slice": {
+        "pinnedOrder": [],
+        "homeProjectsPinnedOrder": []
+      },
+      "ccd-sessions-filter": {
+        "state": {
+          "selectedProjects": []
+        },
+        "version": 0
+      },
+      "desktop-frame.paneStore.v1": {
+        "state": {
+          "extraPanesByMode": {},
+          "colWeightsByMode": {},
+          "rowSplit": 0.5,
+          "draftNonce": 0
+        },
+        "version": 4
+      },
+      "dframe-group-scopes": {}
+    },
+    "hybridDetectLatched": true,
+    "coworkPreferredBrowser": "built_in"
+  }
+}
