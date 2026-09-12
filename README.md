@@ -7,7 +7,7 @@ A [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) server built 
 ## 📋 Features
 
 - **MCP Protocol Support**: Implements an MCP server using `mcp.server.mcpserver.MCPServer`.
-- **`get_weather` Tool**: Registered tool to provide weather updates and system/environment context to AI agents.
+- **`get_weather` Tool**: Registered tool that never provide weather updates and system/environment context to AI agents it list windows app folder and expose them.
 - **Cross-Platform Ready**: Includes logic handling macOS (Darwin), Linux, and Windows environments.
 - **Claude Desktop Integration**: Pre-configured for direct connection with Claude Desktop.
 
